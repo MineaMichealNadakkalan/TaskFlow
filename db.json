@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Redesign landing page", "description": "Update hero section with new branding and improve mobile responsiveness.", "priority": "high", "category": "Work", "dueDate": "2026-03-20", "progress": 75, "completed": false, "createdAt": "2026-03-01" },
+    { "id": 2, "title": "Learn Angular Material", "description": "Study MatTable, MatDialog, MatButton, MatProgressBar components.", "priority": "medium", "category": "Learning", "dueDate": "2026-03-25", "progress": 40, "completed": false, "createdAt": "2026-03-02" },
+    { "id": 3, "title": "Complete Angular project", "description": "Finish implementing all project requirements including routing and forms.", "priority": "high", "category": "Work", "dueDate": "2026-03-15", "progress": 30, "completed": false, "createdAt": "2026-03-03" },
+    { "id": 4, "title": "Morning workout", "description": "30 min cardio + strength training.", "priority": "medium", "category": "Health", "dueDate": "2026-03-10", "progress": 60, "completed": false, "createdAt": "2026-03-03" },
+    { "id": 5, "title": "Read Clean Code", "description": "Finish chapters 4-7 on SOLID principles.", "priority": "low", "category": "Learning", "dueDate": "2026-03-28", "progress": 20, "completed": false, "createdAt": "2026-03-04" }
+  ]
+}
